@@ -6,7 +6,7 @@ Simple Reddit clone build with the MEAN-stack followed by a tutorial of [Thinkst
 
 1. Install MongoDB.
 2. Install NodeJS (atleast Node v5.0.0 or greater).
-3. Clone re repository with: `git clone https://github.com/chrisalderson/flappernews-mean.git`.
+3. Clone the repository with: `git clone https://github.com/chrisalderson/flappernews-mean.git`.
 4. Install `gulp` globaly with `[sudo] npm install -g gulp`.
 5. Install dependencies of Flapper News MEAN with `cd flappernews-mean` and `npm install`.
 6. Build the ES5 code with `gulp build`.
