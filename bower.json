@@ -1,0 +1,11 @@
+{
+  "name": "flappernews-mean",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "latest",
+    "font-awesome": "latest",
+    "animate.css": "latest",
+    "angular": "1.4.9",
+    "angular-route": "1.4.9"
+  }
+}
